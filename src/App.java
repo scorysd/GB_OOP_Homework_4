@@ -8,7 +8,6 @@ public class App {
     a.delTask(1);
     a.setPriority(0, Priority.HI);
     a.save();
-    System.out.println();
     }
 }
 
